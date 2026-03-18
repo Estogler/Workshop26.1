@@ -1,0 +1,11 @@
+id,nome,idade,data_inscricao,nota,ativo,aprovado,faixa_etaria
+1,Ana,25.0,2023-05-12,8.5,1,1,adulto
+2,Bruno,25.0,,9.0,1,1,adulto
+3,Carla,30.0,,8.414285714285715,0,1,adulto
+4,Daniel,25.0,2022-07-15,7.2,1,1,adulto
+5,Érica,27.0,,8.0,e,1,adulto
+6,Francisco,29.0,,8.414285714285715,0,1,adulto
+7,Gabriela,21.0,2023-01-05,10.0,1,1,adulto
+8,Henrique,19.0,,9.5,0,1,adulto
+9,Ivana,11.0,2023-03-10,8.414285714285715,yes,1,jovem
+10,José,25.0,2022-11-25,6.7,1,0,adulto
